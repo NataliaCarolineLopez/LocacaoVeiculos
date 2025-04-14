@@ -8,8 +8,9 @@ Alugar
 Devolver
 Deletar
 
-- Formulário para calcular previsão de aluguel de veículos (por tipo e dias)
-- Tabela de veículos cadastrados, com informações como:
+
+Formulário para calcular previsão de aluguel de veículos (por tipo e dias)
+ Tabela de veículos cadastrados, com informações como:
 Tipo
 Modelo
 Placa
