@@ -6,7 +6,6 @@ Fizemos uma estrutura simples e funcional em PHP para controle de perfis de admi
 - Tabela de veículos cadastrados, com ações como: Alugar, devolver, deletar
 
 E também
-- Formulário para calcular previsão de aluguel de veículos (por tipo e dias)
 - Tabela de veículos cadastrados, com informações como: Tipo, modelo, placa, status (Disponível / Alugado)
 - Área administrativa com saudação ao administrador e botão de logout
  
