@@ -99,6 +99,50 @@
                 </div>
             </div>
         </div>
+
+        <!-- Tabela dr veiculos cadastrados  -->
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="mb-0">
+                            Veículos Cadastrados 📃
+                        </h4>
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-striped table-hover">
+                                <thead>
+                                    <th>Tipo</th>
+                                    <th>Modelo</th>
+                                    <th>Placa</th>
+                                    <th>Status</th>
+                                    <th>Ações</th>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Carro</td>
+                                        <td>Uno</td>
+                                        <td>ABC1D34</td>
+                                        <td>
+                                            <span class="badge bg-success">
+                                                Disponível ✅
+                                            </span>
+                                        </td>
+                                        <td>
+                                            <div class="action-wrapper">
+                                            
+                                          </div>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
     </div>
     
 </body>
