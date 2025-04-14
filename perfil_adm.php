@@ -120,21 +120,14 @@
             </div>
         </div>
 
-<<<<<<< HEAD
-        <!-- Tabela de veículos cadastrados -->
-=======
         <!-- Tabela dr veiculos cadastrados  -->
->>>>>>> 8e980f853b763b233862d096c0a0ac4a9ed6c338
+
         <div class="row mt-4">
             <div class="col-12">
                 <div class="card">
                     <div class="card-header">
                         <h4 class="mb-0">
-<<<<<<< HEAD
-                            Veículos cadastrados 📃
-=======
                             Veículos Cadastrados 📃
->>>>>>> 8e980f853b763b233862d096c0a0ac4a9ed6c338
                         </h4>
                     </div>
                     <div class="card-body">
@@ -150,20 +143,15 @@
                                 <tbody>
                                     <tr>
                                         <td>Carro</td>
-<<<<<<< HEAD
-                                        <td>Nivus</td>
-=======
-                                        <td>Uno</td>
->>>>>>> 8e980f853b763b233862d096c0a0ac4a9ed6c338
+                                        <td>Nivus</td>                                       
                                         <td>ABC1D34</td>
                                         <td>
                                             <span class="badge bg-success">
-                                                Disponível ✅
+                                                Disponível
                                             </span>
                                         </td>
                                         <td>
                                             <div class="action-wrapper">
-<<<<<<< HEAD
                                                 <form action="post" class="btn-group-actions">
 
                                                     <!-- Botão Deletar (sempre disponível para 'Admin') -->
@@ -196,7 +184,7 @@
                                         <td>EFG2H34</td>
                                         <td>
                                             <span class="badge bg-success">
-                                                Disponível ✅
+                                                Disponível
                                             </span>
                                         </td>
                                         <td>
@@ -233,7 +221,7 @@
                                         <td>HIJ7K89</td>
                                         <td>
                                             <span class="badge bg-warning">
-                                                Alugado ❕
+                                                Alugado
                                             </span>
                                         </td>
                                         <td>
