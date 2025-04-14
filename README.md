@@ -9,11 +9,11 @@ Devolver
 Deletar
 
 
-Formulário para calcular previsão de aluguel de veículos (por tipo e dias)
+- Formulário para calcular previsão de aluguel de veículos (por tipo e dias)
  Tabela de veículos cadastrados, com informações como:
 Tipo
 Modelo
 Placa
 Status (Disponível / Alugado)
-Área administrativa com saudação ao administrador e botão de logout
+- Área administrativa com saudação ao administrador e botão de logout
  
